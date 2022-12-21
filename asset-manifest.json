@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/KsushkaKov/goit-react-hw-03-phonebook.git/static/css/main.bccba30a.css",
-    "main.js": "/KsushkaKov/goit-react-hw-03-phonebook.git/static/js/main.24a5dd7e.js",
-    "index.html": "/KsushkaKov/goit-react-hw-03-phonebook.git/index.html",
-    "main.bccba30a.css.map": "/KsushkaKov/goit-react-hw-03-phonebook.git/static/css/main.bccba30a.css.map",
-    "main.24a5dd7e.js.map": "/KsushkaKov/goit-react-hw-03-phonebook.git/static/js/main.24a5dd7e.js.map"
+    "main.css": "/goit-react-hw-03-phonebook/static/css/main.bccba30a.css",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.24a5dd7e.js",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "main.bccba30a.css.map": "/goit-react-hw-03-phonebook/static/css/main.bccba30a.css.map",
+    "main.24a5dd7e.js.map": "/goit-react-hw-03-phonebook/static/js/main.24a5dd7e.js.map"
   },
   "entrypoints": [
     "static/css/main.bccba30a.css",

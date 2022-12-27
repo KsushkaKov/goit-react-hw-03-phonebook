@@ -4,8 +4,8 @@ import PropTypes from 'prop-types';
 export const ContactList = ({ data, handleDelete }) => {
   return (
     <ul className={css.contactList}>
-      {data.map((contact, id) => (
-        <li key={id} className={css.contactListItem}>
+      {data.map(contact => (
+        <li key={contact.id} className={css.contactListItem}>
           {contact.name} : {contact.number}
           <button
             type="button"
